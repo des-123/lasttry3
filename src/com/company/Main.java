@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	
-       //the similarity of code referenced from theis video : https://youtu.be/TErboGLHZGA
+       //the similarity of code referenced from this video : https://youtu.be/TErboGLHZGA
        //the song referenced from : https://youtu.be/nUHh_J2Acy8
 	    
 	    
