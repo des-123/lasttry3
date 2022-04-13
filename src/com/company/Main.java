@@ -26,16 +26,16 @@ public class Main {
         //musicPlayer2.playMusic(fillepath2);
 
         // musicthings musicPlayer3 = new musicthings();
-        //musicPlayer2.playMusic(fillepath2);
+        //musicPlayer3.playMusic(fillepath2);
 
         // musicthings musicPlayer4 = new musicthings();
-        //musicPlayer2.playMusic(fillepath3);
+        //musicPlayer4.playMusic(fillepath3);
 
         // musicthings musicPlayer5 = new musicthings();
-        //musicPlayer2.playMusic(fillepath4);
+        //musicPlayer5.playMusic(fillepath4);
 
         // musicthings musicPlayer6 = new musicthings();
-        //musicPlayer2.playMusic(fillepath5);
+        //musicPlayer6.playMusic(fillepath5);
 
 
 
