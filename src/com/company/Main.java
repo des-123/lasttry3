@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	
        //the similarity of code referenced from this video : https://youtu.be/TErboGLHZGA
-       //the song referenced from : https://youtu.be/nUHh_J2Acy8
+       //the songs referenced from : https://youtu.be/nUHh_J2Acy8
 	    
 	    
         String fillepath0 = "SpaceAdventure.wav"; //Background
