@@ -3,9 +3,11 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-
-
+	
+       //the similarity of code referenced from theis video : https://youtu.be/TErboGLHZGA
+       //the song referenced from : https://youtu.be/nUHh_J2Acy8
+	    
+	    
         String fillepath0 = "SpaceAdventure.wav"; //Background
 
         String fillepath1 = "burning.wav"; //squid-Alian
